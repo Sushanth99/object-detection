@@ -22,3 +22,6 @@ curl -X 'POST' \
 ```
 
 Models available: yolov3-tiny, yolov3, yolov4-tiny, yolov4
+
+## References
+The API is based on Coursera's Introduction to Machine Learning in Production course by Deeplearning.ai.
